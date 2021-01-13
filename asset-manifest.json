@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/two-stakana/static/css/main.be64f5b8.chunk.css",
+    "main.js": "/two-stakana/static/js/main.a42998c6.chunk.js",
+    "main.js.map": "/two-stakana/static/js/main.a42998c6.chunk.js.map",
+    "runtime-main.js": "/two-stakana/static/js/runtime-main.0f049cae.js",
+    "runtime-main.js.map": "/two-stakana/static/js/runtime-main.0f049cae.js.map",
+    "static/js/2.b116f1ab.chunk.js": "/two-stakana/static/js/2.b116f1ab.chunk.js",
+    "static/js/2.b116f1ab.chunk.js.map": "/two-stakana/static/js/2.b116f1ab.chunk.js.map",
+    "static/js/3.0c0c7cf4.chunk.js": "/two-stakana/static/js/3.0c0c7cf4.chunk.js",
+    "static/js/3.0c0c7cf4.chunk.js.map": "/two-stakana/static/js/3.0c0c7cf4.chunk.js.map",
+    "index.html": "/two-stakana/index.html",
+    "static/css/main.be64f5b8.chunk.css.map": "/two-stakana/static/css/main.be64f5b8.chunk.css.map",
+    "static/js/2.b116f1ab.chunk.js.LICENSE.txt": "/two-stakana/static/js/2.b116f1ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f049cae.js",
+    "static/js/2.b116f1ab.chunk.js",
+    "static/css/main.be64f5b8.chunk.css",
+    "static/js/main.a42998c6.chunk.js"
+  ]
+}
